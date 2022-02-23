@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue-and-cry after the Plot</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44882</idno>
+            <idno type="STC">Wing H3293</idno>
+            <idno type="STC">ESTC R14067</idno>
+            <idno type="EEBO-CITATION">12206366</idno>
+            <idno type="OCLC">ocm 12206366</idno>
+            <idno type="VID">56180</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56180)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 764:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue-and-cry after the Plot</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Smith ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688-9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Poetry.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:56180:1"/>
+            <!-- PDF PAGE 10 -->
+            <pb facs="tcp:56180:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>A Hue-and-Cry AFTER THE PLOT.</head>
+            <l>HAlloo the Plot! where i'ſt ith'name of Fate?</l>
+            <l>Good People! what's become of <hi>Seventy Eight?</hi>
+            </l>
+            <l>'Twas ſo long ſince, for all this great ado.</l>
+            <l>There's Hopes, as ſaid th' old Crone, <hi>it may'nt be true.</hi>
+            </l>
+            <l>Theſe Years <hi>Egyptian Snakes</hi> we well may call,</l>
+            <l>The've eat the former <hi>Heads,</hi> and <hi>Tails,</hi> and all:</l>
+            <l>Never before was ſuch an <hi>Hydra found;</hi>
+            </l>
+            <l>Why't has in vain bin <hi>Burnt,</hi> and <hi>Hangd,</hi> and <hi>Drownd;</hi>
+            </l>
+            <l>Yet ſtill this <hi>Devil</hi> of a Plot revives;</l>
+            <l>
+               <hi>Cats</hi> have but <hi>Nine,</hi> but this has <hi>Nine Cats</hi> Lives.</l>
+            <l>By great St. <hi>Coleman</hi> firſt it ſaw the light,</l>
+            <l>But then 'it's ugly ſhape ſo much did fright</l>
+            <l>The Holy <hi>Fathers,</hi> that without delay,</l>
+            <l>Th' unlucky <hi>Baſtard</hi> muſt be <hi>made away.</hi>
+            </l>
+            <l>And ſince to purpoſe they'd the Buſineſs do,</l>
+            <l>In <hi>Godfreys</hi> Breaſt they <hi>Choakt,</hi> and <hi>Stab'd</hi> it too,</l>
+            <l>Yet what for a <hi>Deaths-Wound</hi> they meant to give,</l>
+            <l>Like an <hi>Impoſthume</hi> pierſt but made it Live,</l>
+            <l>Then up it got, but yet unhappy ſtill,</l>
+            <l>'Twas fairly hang'd with <hi>Bury, Green,</hi> and <hi>Hill,</hi>
+            </l>
+            <l>And then, as ſoon as his old Friends were Dead,</l>
+            <l>By <hi>Tranſmigration</hi> into <hi>Langhorn</hi> fled.</l>
+            <l>No wonder if it would not there abide,</l>
+            <l>'Twas ſtript and <hi>whipt,</hi> and ſadly mortify'd;</l>
+            <l>Huffy with that, it left the Ill-natur'd Elf</l>
+            <l>E'ne to be <hi>ſtring'd,</hi> and <hi>gutted</hi> by himſelf.</l>
+            <l>Then with the <hi>Jeſuits</hi> at the Bar Harangu'd;</l>
+            <l>Then made <hi>fine Speeches,</hi> and was <hi>finely</hi> Hang'd.</l>
+            <l>
+               <hi>Treaſon</hi> as Dogs do <hi>Puddings,</hi> it did ſcorn,</l>
+            <l>And Dy'd as <hi>Innocent as Child unborn.</hi>
+            </l>
+            <pb facs="tcp:56180:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <l>
+               <pb facs="tcp:56180:3"/>
+               <!-- PDF PAGE 12 -->
+Perkt up agen it ſoon took up it's Station,</l>
+            <l>To comfort <hi>Wakeman</hi> in his <hi>Tribulation,</hi>
+            </l>
+            <l>Grown Sawcy there it <hi>Guinnys</hi> did not grudg,</l>
+            <l>Preſto, 10000 li. blew up the Judg,</l>
+            <l>Tho' t'was the' unconſcionableſt Dog alive,</l>
+            <l>In <hi>Fifteen-Thouſand</hi> but to leave him five.</l>
+            <l>Well <hi>George rubbs off to France,</hi> but <hi>Plots</hi> ſo ſtout</l>
+            <l>'Twill play at <hi>ſmall Games rather then ſtand out;</hi>
+            </l>
+            <l>Grown jolly then with <hi>Dr.</hi> baniſht <hi>fears,</hi>
+            </l>
+            <l>And took a rouch or two with brisk <hi>Celliers,</hi>
+            </l>
+            <l>But frighted leaps from <hi>Meal-Tubb</hi> ſomething ſadder,</l>
+            <l>A <hi>Dow-baked Embryo</hi> like her BLOODY BLADDER,</l>
+            <l>
+               <hi>Hodg</hi> took the <hi>Lump,</hi> and dip't in <hi>Holy-Water,</hi>
+            </l>
+            <l>Wraps it up warm in <hi>Wool, and Obſervator,</hi>
+            </l>
+            <l>Brings it to <hi>Sams,</hi> where <hi>Crape</hi> with wine <hi>ecſtatick,</hi>
+            </l>
+            <l>(Who would have thought it,) <hi>Chriſtens</hi> it PHANA<g ref="char:EOLhyphen"/>TICK</l>
+            <l>
+               <hi>Plots</hi> turned to <hi>Puſs,</hi> will no kind Mortal houſe her?</l>
+            <l>See how ſhe's worried by that <hi>Dog-Rogue Towzer.</hi>
+            </l>
+            <l>A PLOT! the word's a ſpell, the <hi>Crown's</hi> undone,</l>
+            <l>No Countercharm can ſave's but <hi>Forty one,</hi>
+            </l>
+            <l>And <hi>Forty eight,</hi> and <hi>Forty one,</hi> and then,</l>
+            <l>Like <hi>Mill-Horſe</hi> round to <hi>Forty eight</hi> agen,</l>
+            <l>A PLOT! hence with the Bug-Bear, Srs. for ſhame,</l>
+            <l>Sly callow <hi>Treaſons</hi> lurk ith' pregnant name,</l>
+            <l>'Tis <hi>Sinons Horſe;</hi> as many <hi>Whigs</hi> are there</l>
+            <l>As in the Dreadful <hi>Oxford Army</hi> were,</l>
+            <l>Thus <hi>Roger</hi> yelps, as Children build a <hi>Town,</hi>
+            </l>
+            <l>Of <hi>Snow</hi> or <hi>Dirt</hi> only to <hi>beat it Down,</hi>
+            </l>
+            <l>No longer idleing here, poor <hi>Plot</hi> will ſtand,</l>
+            <l>But means to venture for a <hi>kinder Land.</hi>
+            </l>
+            <l>Yet there hopeing to find a little reſt</l>
+            <l>Hee's hang'd becauſe he will not take the TEST,</l>
+            <l>And after all had made the <hi>Haddocks</hi> bite,</l>
+            <l>But that the courteous <hi>Gallows claim'd it's right,</hi>
+            </l>
+            <l>'Twas <hi>Conventickler</hi> next, but loath to looſe</l>
+            <l>It's life by falls of <hi>Pulpits,</hi> Seats, and Rews,</l>
+            <l>It Trimmer turn'd, and if you ask for Proof,</l>
+            <l>Here's <hi>Rogers Ipſe Dixit,</hi> that's enough.</l>
+            <l>'Tis now <hi>Informer.</hi> If from thence it fall</l>
+            <l>It can be nothing but—THE DEVIL AND ALL.</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Smith,</hi> at the <hi>Elephant and Caſtle</hi> in <hi>Cornhil.</hi>
+            </p>
+            <pb facs="tcp:56180:3"/>
+            <!-- PDF PAGE 12 -->
+         </div>
+      </back>
+   </text>
+</TEI>
